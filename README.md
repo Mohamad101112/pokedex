@@ -6,3 +6,5 @@ This is a pokemon search api that fetches data from the pokeapi and return info 
 cached data using localStorage
 search through pokemon with index and name
 responsive Navbar
+
+[live link](https://pokedexapp1.netlify.app/)
